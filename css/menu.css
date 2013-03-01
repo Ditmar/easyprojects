@@ -1,0 +1,54 @@
+/* 
+    Document   : menu
+    Created on : 11-ago-2009, 23:30:30
+    Author     : Ditmar
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+#menu_cc_left{
+    background-image:url("/imadesignier/containermenu/us_left.gif");
+    width:30px;
+    height:100px;
+}
+#menu_cc_rigth{
+    background-image:url("/imadesignier/containermenu/us_rigth.gif");
+    width:30px;
+    height:100px;
+}
+#menu_cc_body{
+    background-image:url("/imadesignier/containermenu/us_body.gif");
+    height:100px;
+}
+#menu_cc_body a{
+   color:#000000;
+}
+#menu_ad_left{
+    background-image:url("/imadesignier/containermenu/ad_left.gif");
+    width:30px;
+    height:100px;
+}
+#menu_ad_rigth{
+    background-image:url("/imadesignier/containermenu/ad_rigth.gif");
+    width:30px;
+    height:100px;
+}
+#menu_ad_body{
+    background-image:url("/imadesignier/containermenu/ad_body.gif");
+    height:100px;
+    color:#ffffff;
+    font-family:"Verdana";
+    font-size:10px;
+}
+#menu_ad_body a{
+   color:#ffffff;
+}
+
+
+
+
+
